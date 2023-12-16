@@ -1,0 +1,20 @@
+#result_person_name
+{
+ color:rgb(85, 204, 192);
+ font-size: 30px;
+}
+#result_person_accuracy
+{
+ color:rgb(255, 0, 230);
+ font-size: 30px;
+}
+body
+{
+    background-color:aliceblue;
+    font-family:cursive;
+}
+.name_of_persons
+{
+    color:rgb(0, 242, 255);
+    font-size: 30px;
+}
